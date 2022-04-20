@@ -1,0 +1,9 @@
+.content {
+  margin-left: 25%;
+}
+
+.preclass {
+  text-align   : justify  ;
+  inline-size  : 500px;
+  overflow-wrap: break-word;
+}
